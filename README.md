@@ -7,7 +7,12 @@ pygame
 ```
 
 ### Installation
-Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to install pygame
+1. Clone this repository to your local computer
+```
+https://github.com/audreyemmely/typing-speed-test.git
+```
+
+2. Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to install pygame
 ```
 pip install pygame
 ```
